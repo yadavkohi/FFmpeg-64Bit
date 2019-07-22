@@ -6,3 +6,7 @@ libmp3lame
 libx264
 libfreetype
 libfontconfig
+
+
+Few files need the changes:
+CpuArch.java, CpuArchHelper.java, FFmpeg.java
